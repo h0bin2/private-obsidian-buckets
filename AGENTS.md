@@ -2,7 +2,7 @@
 스킬은 `SKILL.md` 파일에 저장된 로컬 작업 지침입니다. 아래 목록은 이 프로젝트에서 사용할 수 있는 스킬입니다.
 
 ### Available skills
-- write-skill: 작성 목적별 참조 규칙을 적용해 Obsidian 문서를 작성/수정하고, 논문 문서 파일명을 `PAPER_YYYY.MM.DD_제목.md` 형식으로 강제한다. 논문, PRD, 요약, 인수인계, 캔버스(시스템 아키텍처) 작성에 사용한다. (file: C:/docs/hb.ham/.codex/skills/write-skill/SKILL.md)
+- write-skill: 작성 목적별 참조 규칙을 적용해 Obsidian 문서를 작성/수정한다. 프로젝트 생성, 논문, PRD, 요약, 인수인계, 캔버스(시스템 아키텍처) 작성에 사용한다. 논문 문서 파일명은 `PAPER_YYYY.MM.DD_제목.md` 형식으로 강제한다. (file: C:/docs/hb.ham/.codex/skills/write-skill/SKILL.md)
 
 ### How to use skills
 - Discovery: 위 목록을 이 프로젝트의 사용 가능 스킬로 간주한다.

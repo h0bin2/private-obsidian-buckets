@@ -44,4 +44,6 @@
 - `*.md`, `*.canvas`, `*.yaml`은 UTF-8(BOM 없음) 사용
 - Canvas는 유효한 JSON 형식 유지
 
-## 다음 세션 시작 위치`n- `SESSION_CONTINUITY.md` (전역 운영 세션 기준)`n- `PROJECT/01_paper-crawling-ai-insights/docs/SESSION_CONTINUITY.md` (프로젝트 상세 기준)`n
+## 다음 세션 시작 위치
+- `SESSION_CONTINUITY.md` (전역 운영 세션 기준)
+- `PROJECT/01_paper-crawling-ai-insights/docs/SESSION_CONTINUITY.md` (프로젝트 상세 기준)

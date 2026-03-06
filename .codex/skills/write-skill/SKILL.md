@@ -1,6 +1,6 @@
 ---
 name: write-skill
-description: 작성 목적을 분류하고 목적별 참조 문서를 선택해 Obsidian Markdown 문서 작성 규칙을 적용한다. 논문, PRD, 요약, 인수인계, 일반 문서 작성/수정 작업에서 사용한다.
+description: 작성 목적을 분류하고 목적별 참조 문서를 선택해 Obsidian Markdown 문서 작성 규칙을 적용한다. 논문, PRD, 요약, 인수인계, 캔버스(시스템 아키텍처), 일반 문서 작성/수정 작업에서 사용한다.
 ---
 
 # Write Skill
@@ -19,6 +19,7 @@ description: 작성 목적을 분류하고 목적별 참조 문서를 선택해 
 - `prd` -> `references/prd.md`
 - `summary` -> `references/summary.md`
 - `handover` -> `references/handover.md`
+- `canvas` -> `references/canvas.md`
 - 목적이 불명확하거나 혼합됨 -> `references/general.md`
 
 ## 공통 체크

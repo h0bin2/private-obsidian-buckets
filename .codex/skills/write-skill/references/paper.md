@@ -1,23 +1,23 @@
-# Paper Reference
+# 논문 문서 참조 규칙
 
-## Scope
-- Use for research paper notes, literature reviews, and paper-derived memos.
+## 사용 범위
+- 논문 리뷰, 레퍼런스 정리, 논문 기반 메모 작성에 사용한다.
 
-## Filename
-- Must be: `PAPER_YYYY.MM.DD_title.md`
-- Example: `PAPER_2026.03.06_transformer-optimization.md`
+## 파일명
+- 형식: `PAPER_YYYY.MM.DD_제목.md`
+- 예시: `PAPER_2026.03.06_transformer-optimization.md`
 
-## Required Header Fields
-- Date
-- Topic
-- Source or Link
+## 상단 메타정보 (필수)
+- 작성일
+- 주제
+- 출처 또는 링크
 
-## Required Sections
-- Summary
-- Key Evidence
-- Application Notes
+## 본문 섹션 (필수)
+- 요약
+- 핵심 근거
+- 적용 메모
 
-## Quality Rules
-- Keep claims tied to explicit evidence.
-- Distinguish fact vs interpretation.
-- Keep application notes actionable.
+## 품질 규칙
+- 주장에는 근거를 연결한다.
+- 사실과 해석을 분리한다.
+- 적용 메모는 실행 가능한 수준으로 작성한다.

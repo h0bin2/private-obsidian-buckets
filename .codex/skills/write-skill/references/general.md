@@ -1,15 +1,15 @@
-# General Reference
+# 일반 문서 참조 규칙
 
-## Scope
-- Use when purpose is unclear or mixed.
+## 사용 범위
+- 목적이 불명확하거나 복합적인 일반 문서에 사용한다.
 
-## Baseline Structure
-- Context
-- Body
-- Decisions / TODO
-- Next Steps
+## 기본 구조
+- 배경
+- 본문
+- 결정사항 / TODO
+- 다음 단계
 
-## Quality Rules
-- Clarify purpose at the top in 1-2 lines.
-- Keep section names explicit.
-- Normalize all dates to `YYYY.MM.DD`.
+## 품질 규칙
+- 문서 상단에 목적을 1~2줄로 명확히 적는다.
+- 섹션명은 모호하지 않게 작성한다.
+- 날짜는 `YYYY.MM.DD`로 통일한다.

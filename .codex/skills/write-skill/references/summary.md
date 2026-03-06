@@ -1,15 +1,15 @@
-# Summary Reference
+# 요약 문서 참조 규칙
 
-## Scope
-- Use for meeting notes summary, article summary, or progress summary.
+## 사용 범위
+- 회의 요약, 문서 요약, 진행 요약에 사용한다.
 
-## Required Sections
+## 섹션 (필수)
 - TL;DR
-- Main Points
-- Decisions
-- Action Items
+- 핵심 포인트
+- 결정사항
+- 액션 아이템
 
-## Quality Rules
-- Keep TL;DR within 3 lines.
-- Action items must have owner and due date when available.
-- Avoid raw transcript style; synthesize by topic.
+## 품질 규칙
+- TL;DR은 3줄 이내로 작성한다.
+- 액션 아이템에는 담당자/기한을 가능한 한 명시한다.
+- 원문 나열이 아니라 주제별 요약으로 재구성한다.

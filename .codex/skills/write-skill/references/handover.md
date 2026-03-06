@@ -1,17 +1,17 @@
-# Handover Reference
+# 인수인계 문서 참조 규칙
 
-## Scope
-- Use for project handover, task takeover, or operations transfer docs.
+## 사용 범위
+- 프로젝트 인수인계, 운영 이관, 업무 인계 문서에 사용한다.
 
-## Required Sections
-- Current State
-- What Was Done
-- Pending Work
-- Risks and Blockers
-- Runbook / How to Operate
-- Contacts and References
+## 섹션 (필수)
+- 현재 상태
+- 완료된 작업
+- 남은 작업
+- 리스크/블로커
+- 운영 절차 (Runbook)
+- 담당자/참고 링크
 
-## Quality Rules
-- Pending work must include priority and next action.
-- Risks must include impact and suggested mitigation.
-- Runbook steps should be executable without assumptions.
+## 품질 규칙
+- 남은 작업에는 우선순위와 다음 액션을 포함한다.
+- 리스크에는 영향도와 완화 방안을 포함한다.
+- 운영 절차는 바로 실행 가능한 수준으로 작성한다.

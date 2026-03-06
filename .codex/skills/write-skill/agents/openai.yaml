@@ -1,4 +1,4 @@
 interface:
   display_name: "Write Skill"
-  short_description: "Apply project writing rules and paper naming standard"
-  default_prompt: "Use $write-skill to write or revise Obsidian markdown files in this project and enforce PAPER_YYYY.MM.DD_title.md for paper documents."
+  short_description: "프로젝트 문서 작성 규칙과 논문 파일명 표준을 적용"
+  default_prompt: "$write-skill을 사용해 이 프로젝트 문서를 작성/수정하고, 논문 문서는 PAPER_YYYY.MM.DD_제목.md 형식을 적용해줘."

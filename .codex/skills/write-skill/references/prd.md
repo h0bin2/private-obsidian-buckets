@@ -1,20 +1,20 @@
-# PRD Reference
+# PRD 문서 참조 규칙
 
-## Scope
-- Use for product requirement documents and feature planning docs.
+## 사용 범위
+- 제품 요구사항, 기능 기획, 범위 정의 문서에 사용한다.
 
-## Required Sections
-- Context
-- Problem Statement
-- Goals
-- Non-goals
-- Functional Requirements
-- Non-functional Requirements
-- Risks and Mitigations
-- Success Metrics
-- Open Questions
+## 섹션 (필수)
+- 배경
+- 문제 정의
+- 목표
+- 비목표
+- 기능 요구사항
+- 비기능 요구사항
+- 리스크 및 대응
+- 성공 지표
+- 오픈 이슈
 
-## Quality Rules
-- Requirements must be testable.
-- Goals and metrics must be measurable.
-- Separate assumptions from confirmed decisions.
+## 품질 규칙
+- 요구사항은 검증 가능하게 작성한다.
+- 목표/지표는 측정 가능해야 한다.
+- 가정과 확정 사항을 분리한다.

@@ -7,6 +7,10 @@
 - 형식: `PAPER_YYYY.MM.DD_제목.md`
 - 예시: `PAPER_2026.03.06_transformer-optimization.md`
 
+## 저장 위치
+- 논문 문서는 항상 `paper/` 폴더 아래에 작성한다.
+- 경로 예시: `paper/PAPER_2026.03.06_transformer-optimization.md`
+
 ## 상단 메타정보 (필수)
 - 작성일
 - 주제

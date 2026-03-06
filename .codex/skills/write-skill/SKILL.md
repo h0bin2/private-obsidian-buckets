@@ -22,7 +22,12 @@ description: 작성 목적을 분류하고 목적별 참조 문서를 선택해 
 - `canvas` -> `references/canvas.md`
 - 목적이 불명확하거나 혼합됨 -> `references/general.md`
 
+## 공통 저장 경로 규칙
+- `prd` 또는 `canvas` 목적 문서는 아래 경로에 저장한다.
+- 경로 형식: `PROJECT/<순번_프로젝트명>/docs/`
+
 ## 공통 체크
 - 목적 분류가 정확한가?
 - 참조 파일을 1개만 선택했는가?
+- 목적이 `prd`/`canvas`라면 `PROJECT/<순번_프로젝트명>/docs/` 경로를 지켰는가?
 - 날짜 표기가 `YYYY.MM.DD`로 통일되었는가?
